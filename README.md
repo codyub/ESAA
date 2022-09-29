@@ -1,2 +1,2 @@
-# ESAA_0905-Mon-_1
-ESAA 1차 활동
+# ESAA
+ESAA 활동 기록
