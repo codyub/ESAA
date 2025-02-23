@@ -1,2 +1,4 @@
 # ESAA
-ESAA 활동 기록
+ESAA activity records
+
+data analysis projects and group study
